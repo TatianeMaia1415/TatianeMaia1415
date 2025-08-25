@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**TatianeMaia1415/TatianeMaia1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Tatiane Maia, tenho 23 anos, indígena da etnia tukano, natural de São Gabriel da Cachoeira (AM) e atualmente estou no sexto período do Bacharelado em Ciência da Computação na UFSCar.  
 
-Here are some ideas to get you started:
+Atualmente estou focada em **desenvolvimento web**, explorando novas tecnologias e práticas para criar projetos cada vez melhores.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nos momentos livres, gosto de ouvir **música**, jogar **futsal** e me manter ativa.  
+
+💻 **Áreas de interesse:** Desenvolvimento Web, tecnologias front-end e back-end, aprendizado contínuo em computação.  
+🎯 **Objetivo:** Criar projetos que unam funcionalidade e boa experiência para o usuário.  
+
+📫 **Contato:** tatymaia1415@gmail.com  
+😄 **Pronouns:** Ela/Dela
+⚡ **Fun fact:** sou gêmea.  
