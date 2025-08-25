@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou Tatiane Maia, tenho 23 anos, indígena da etnia tukano, natural de São Gabriel da Cachoeira (AM) e atualmente estou no sexto período do Bacharelado em Ciência da Computação na UFSCar.  
+Sou Tatiane Maia, tenho 23 anos, indígena da etnia tukano, natural de São Gabriel da Cachoeira (AM) e atualmente estou no sexto período de Bacharelado em Ciência da Computação na UFSCar.  
 
 Atualmente estou focada em **desenvolvimento web**, explorando novas tecnologias e práticas para criar projetos cada vez melhores.  
 
